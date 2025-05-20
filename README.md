@@ -26,3 +26,4 @@ Each of the organizers will donate a small, symbolic and fun price in the range 
 # List of guesses
 
 - Josef Holzmayr: [IRobot](https://www.irobot.com)
+- Anna-Lena Marx: [Vorwerk](https://www.vorwerk.com/) (Thermomix)
