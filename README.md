@@ -27,3 +27,4 @@ Each of the organizers will donate a small, symbolic and fun price in the range 
 
 - Josef Holzmayr: [IRobot](https://www.irobot.com)
 - Anna-Lena Marx: [Vorwerk](https://www.vorwerk.com/) (Thermomix)
+- Kieran Bingham: [Tuya](https://tuya.eu/) - Far too many prevalent white labelled devices... Though I could imagine it could be a distributor who actually gets fined for one these.
