@@ -28,3 +28,4 @@ Each of the organizers will donate a small, symbolic and fun price in the range 
 - Josef Holzmayr: [IRobot](https://www.irobot.com)
 - Anna-Lena Marx: [Vorwerk](https://www.vorwerk.com/) (Thermomix)
 - Kieran Bingham: [Tuya](https://tuya.eu/) - Far too many prevalent white labelled devices... Though I could imagine it could be a distributor who actually gets fined for one these.
+- Alex Lennon: Industry sector, An EV charging company because (a) huge numbers of non-embedded people seem to be starting up EV charging companies, (b) they have no concept of the challenge, in particular safety and security, (c) it's a ripe area to exploit and (d) the potential for your EV charger causing your EV to burn down your road or gas your children makes for a compelling reason to give a business a regulatory kicking.
